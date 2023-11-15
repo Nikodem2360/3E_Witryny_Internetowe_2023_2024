@@ -1,2 +1,2 @@
-# Note
-3E_Witryny_Internetowe_2023_2024
+# 3E_Witryny_Internetowe_2023_2024
+
