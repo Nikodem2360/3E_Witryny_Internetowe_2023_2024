@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Film o tematyce informatycznej</title>
+</head>
+<body>
+  <h1>Film o tematyce informatycznej</h1>
+  <p>Możesz obejrzeć film klikając na poniższy link:</p>
+  <a href="https://www.youtube.com/watch?v=yR6QJloHAoM">Link do filmu</a>
+</body>
+</html>
