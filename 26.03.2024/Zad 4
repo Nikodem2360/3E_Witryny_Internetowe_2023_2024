@@ -1,0 +1,13 @@
+HTML 4:
+
+Używano tagów <object>, <embed>, i <applet> do osadzania mediów.
+Alternatywna treść była często umieszczana wewnątrz znacznika <object> lub między jego otwierającym i zamykającym tagiem.
+Nie było dedykowanych tagów dla audio i wideo.
+Stosowano często <embed> do osadzania mediów, takich jak pliki Flash.
+
+HTML 5:
+
+Zalecane jest używanie tagów <audio> i <video> do osadzania plików dźwiękowych i wideo.
+Wprowadzono tag <source> wewnątrz tagów <audio> i <video>, co umożliwia obsługę różnych formatów plików.
+Istnieje wsparcie dla alternatywnych treści i różnych formatów plików wewnątrz tagów audio i wideo.
+Możliwe jest odtwarzanie dźwięku i wideo w tle za pomocą atrybutu autoplay.
