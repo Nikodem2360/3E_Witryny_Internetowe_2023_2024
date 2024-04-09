@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strona z multimediami</title>
+</head>
+<body>
+    <img src="rower.jpg" alt="zdjęcie roweru">
+<video width="320" height="240" controls autoplay loop="10">
+        <source src="rowerek.mp4" type="video/mp4">
+        <source src="rowerek.ogg" type="video/ogg">
+    Twoja przeglądarka nie obsługuje tego formatu.
+</video> 
+<audio controls>
+    <source src="muzyka.mp3" type="audio/mp3">
+    <source src="muzyka.ogg" type="audio/ogg">
+    Twoja przeglądarka nie obsługuje tego formatu.
+</audio> 
+<picture>
+    <source media="(min-width:650px)" srcset="rowery.jpg">
+    <source media="(min-width:650px)" srcset="biały_rower.jpg">
+    <img src="pomarańczowye_rowery.jpg" alt="Rowery">
+</picture>
+</body>
+</html>
