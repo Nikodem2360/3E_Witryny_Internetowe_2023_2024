@@ -1,0 +1,7 @@
+Symbol  jednostki |	Nazwa jednostki |	Rodzaj jednostki |	Opis zastosowania
+px                | 	piksel	      | bezwzględna	     | Jednostka ta określa ilość pojedynczych punktów widocznych na ekranie monitora.
+em	              | em	            | względna	       | Jednostka ta jest zależna od rozmiaru czcionki elementu nadrzędnego.
+pc	              | pica	          | bezwzględna      |	Jednostka stosowana w typografii, 1 pica to 1/6 cala.
+pt                |	punkt	          | bezwzględna	     | Jednostka używana w typografii, 1 punkt to 1/72 cala.
+%	                | procent	        | względna	       | Wyrażenie wartości w procentach względem elementu nadrzędnego.
+in	              | cal	            | bezwzględna      | Jednostka wyrażająca długość w calach. 1 cal to 96 pikseli na ekranie.
