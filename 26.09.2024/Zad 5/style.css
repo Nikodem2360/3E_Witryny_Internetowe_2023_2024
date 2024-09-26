@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.baner {
+    background-color: #cc9966;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    font-weight: bold;
+    color: white;
+}
+
+.menu {
+    background-color: #32CD32;
+    width: 20%;
+    height: 400px;
+    float: left;
+    color: white;
+    text-align: center;
+    line-height: 400px;
+    font-weight: bold;
+}
+
+.content {
+    background-color: #ffff33;
+    height: 400px;
+    width: 80%;
+    float: left;
+    text-align: center;
+    line-height: 400px;
+    font-weight: bold;
+}
+
+.stopka {
+    clear: both;
+    background-color: #990033;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-weight: bold;
+    color: white;
+}
